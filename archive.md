@@ -8,10 +8,6 @@ Our DLS is accessible at these locations:
 http://web.archive.org/web/20260322033123/https://shinyhunte.rs/
 http://web.archive.org/web/20260322033217/https://shinyhunte.rs/newpgp
 
-=======================================================================
-
-
-
 Wiley Higher ED
 The University of British Columbia
 Canvas Network
