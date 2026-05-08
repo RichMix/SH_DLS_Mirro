@@ -5,7 +5,6 @@ Our DLS is accessible at these locations:
 
 > These files were leaked on the ShinyHunters DLS because the victim did not pay a ransom or cooperate and comply with the ShinyHunters group.
 
-src;refs;lnks;
 http://web.archive.org/web/20260322033123/https://shinyhunte.rs/
 http://web.archive.org/web/20260322033217/https://shinyhunte.rs/newpgp
 
